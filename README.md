@@ -1,4 +1,5 @@
-# multiplayer-game-2d
+# Multiplayer Game 2d
+> Simple Multiplayer Game with basic functionalities for JS study purposes
 
-## Execute:
+In order to run:
 `npx nodemon`
